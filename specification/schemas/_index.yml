@@ -32,6 +32,8 @@ TravelMode:
   $ref: "./TravelMode.yml"
 TextValueObject:
   $ref: "./TextValueObject.yml"
+TimeZoneTextValueObject:
+  $ref: "./TimeZoneTextValueObject.yml"
 # Distance Matrix
 DistanceMatrixElementStatus:
   $ref: "./DistanceMatrixElementStatus.yml"
